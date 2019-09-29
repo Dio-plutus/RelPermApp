@@ -31,19 +31,5 @@ setup(
                     'appmode/static/gears.svg'
     ])],
 
-    classifiers=[
-        "Programming Language :: Python :: 2",
-        "Programming Language :: Python :: 2.7",
-        "Programming Language :: Python :: 3",
-        "Programming Language :: Python :: 3.5",
-        "License :: OSI Approved :: MIT License",
-        "Operating System :: OS Independent",
-    ],
-
-)
-
-print("\nPlease run the following commands to enable appmode:")
-print("  jupyter serverextension enable --py --sys-prefix appmode")
-print("  jupyter nbextension     enable --py --sys-prefix appmode")
 
 #EOF
