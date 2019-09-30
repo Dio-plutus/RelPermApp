@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Create a custom directory and mv the custom.js there
+mkdir -p ~/.jupyter/custom
+mv custom.js ~/.jupyter/custom/.
