@@ -1,6 +1,6 @@
 # Relative Permeability App
 
-**An interactive web app that plots relative permeability curves based on modified Brooks-Corey model**
+**An interactive app that plots relative permeability curves based on modified Brooks-Corey model**
 
 ## Try it live
 
